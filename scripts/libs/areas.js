@@ -1,3 +1,5 @@
+const ui = global.ui;
+
 // Sometimes being explicit about types is needed
 if (typeof(cons) == "undefined") {
 	const cons = method => extend(Cons, {get: method});
