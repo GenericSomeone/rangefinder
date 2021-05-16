@@ -1,7 +1,3 @@
-# TODO
-
-Remove dependency on UI Lib
-
 # INSTRUCTIONS
 
 Click the arrow at the top left to enable the rangefinder. The rangefinder will display the distance from the player to the cursor in tiles.
