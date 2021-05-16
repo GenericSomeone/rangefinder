@@ -3,8 +3,7 @@
 	"displayName": "Rangefinder",
 	"author": "Someone",
 	"description": "Adds a rangefinder.\n[stat]Requires [#00aaff]DeltaNedas/ui-lib[]",
-	"version": "1.0",
-	"dependencies": ["ui-lib"],
+	"version": "1.1",
 	"hidden": true,
 	"minGameVersion": 105
 }
