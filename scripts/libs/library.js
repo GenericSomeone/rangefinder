@@ -128,3 +128,4 @@ ui.addButton = (name, icon, clicked, user) => {
 };
 
 module.exports = ui;
+global.ui = ui;
