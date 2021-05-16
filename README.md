@@ -8,8 +8,8 @@ Click the arrow at the top left to enable the rangefinder. The rangefinder will 
 
 For some reason, the rangefinder doesn't work up close for units.
 
-Mod requires DeltaNedas/ui-lib to run. ~~I'm 90% sure there's a better way to do this, but I made this mod in 20 minutes~~
+Mod uses ui-lib code, but does not require any dependencies to run. ~~I'm 90% sure there's a better way to do this, but I made this mod in 20 minutes~~
 
 # CREDITS
 
-DeltaNedas for making ui-lib and speed (which I used to figure out how this thing is supposed to work)
+DeltaNedas for ui lib code
