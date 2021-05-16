@@ -1,4 +1,7 @@
 const ui = require("ui-lib/library");
+require("ui-lib/areas");
+
+Events.on(ClientLoadEvent, ui.load);
 
 const range = () => {
 	let raw = Mathf.dst(Vars.player.unit().x, Vars.player.unit().y, Vars.player.mouseX, Vars.player.mouseY);
